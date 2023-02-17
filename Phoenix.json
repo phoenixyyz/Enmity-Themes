@@ -1,6 +1,6 @@
 {
   "name": "Phoenix",
-  "description": "Orange & Black Theme.",
+  "description": "\nOrange & Black Theme.",
   "version": "1.0.0",
   "authors": [
     {
@@ -14,11 +14,11 @@
       "#FFFFFF"
     ],
     "HEADER_PRIMARY": [
-      "#FFFFFF",
+      "#e69138",
       "#e69138"
     ],
     "HEADER_SECONDARY": [
-      "#FFFFFF",
+      "#e69138",
       "#e69138"
     ],
     "TEXT_NORMAL": [
@@ -34,7 +34,7 @@
       "#FFFFFF"
     ],
     "CHANNEL_ICON": [
-      "#FFFFFF",
+      "#e69138",
       "#e69138"
     ],
     "INTERACTIVE_NORMAL": [
@@ -137,13 +137,13 @@
   "colours": {
     "PRIMARY_DARK": "#e69138",
     "PRIMARY_DARK_100": "#FFFFFF",
-    "PRIMARY_DARK_200": "#FFFFFF",
+    "PRIMARY_DARK_200": "#000000",
     "PRIMARY_DARK_300": "#e69138",
-    "PRIMARY_DARK_360": "#FFFFFF",
+    "PRIMARY_DARK_360": "#000000",
     "PRIMARY_DARK_500": "#111111",
     "PRIMARY_DARK_600": "#000000",
     "PRIMARY_DARK_630": "#e69138",
-    "PRIMARY_DARK_700": "#FFFFFF",
+    "PRIMARY_DARK_700": "#000000",
     "PRIMARY_DARK_800": "#000000",
     "PRIMARY_DARK_900": "#e69138"
   },
