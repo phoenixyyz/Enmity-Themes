@@ -1,0 +1,89 @@
+Theme_Color_Key_Full
+
+Name	Description
+
+HEADER_PRIMARY	The background color and text color of the primary header
+
+HEADER_SECONDARY	The background color and text color of the secondary header
+
+TEXT_NORMAL	The text color for normal text
+
+TEXT_MUTED	The text color for muted or secondary text
+
+INTERACTIVE_NORMAL	The background color and text color for interactive elements when they are not being interacted with
+
+INTERACTIVE_HOVER	The background color and text color for interactive elements when they are being hovered over
+
+INTERACTIVE_ACTIVE	The background color and text color for interactive elements when they are being clicked or pressed
+
+INTERACTIVE_MUTED	The background color and text color for interactive elements that are in a muted or inactive state
+
+BACKGROUND_PRIMARY	The background color of the primary area
+
+BACKGROUND_SECONDARY	The background color of the secondary area
+
+BACKGROUND_SECONDARY_ALT	The background color of an alternate secondary area
+
+BACKGROUND_TERTIARY	The background color of the tertiary area
+
+BACKGROUND_ACCENT	The background color of an accent area
+
+BACKGROUND_FLOATING	The background color of a floating area
+
+BACKGROUND_MOBILE_PRIMARY	The background color of the primary area in mobile view
+
+BACKGROUND_MOBILE_SECONDARY	The background color of the secondary area in mobile view
+
+BACKGROUND_NESTED_FLOATING	The background color of a floating area nested within another area
+
+BACKGROUND_MESSAGE_HOVER	The background color of a message when it is being hovered over
+
+BACKGROUND_MODIFIER_HOVER	The background color of a modifier when it is being hovered over
+
+BACKGROUND_MODIFIER_ACTIVE	The background color of a modifier when it is being clicked or pressed
+
+BACKGROUND_MODIFIER_SELECTED	The background color of a selected modifier
+
+BACKGROUND_MODIFIER_ACCENT	The background color of a modifier with an accent color
+
+BACKGROUND_MENTIONED	The background color of a message where the user is mentioned
+
+BACKGROUND_MENTIONED_HOVER	The background color of a message where the user is mentioned when it is being hovered over
+
+SCROLLBAR_THIN_THUMB	The color of the thumb of a thin scrollbar
+
+SCROLLBAR_THIN_TRACK	The color of the track of a thin scrollbar
+
+SCROLLBAR_AUTO_THUMB	The color of the thumb of an automatic scrollbar
+
+SCROLLBAR_AUTO_TRACK	The color of the track of an automatic scrollbar
+
+CHANNELTEXTAREA_BACKGROUND	The background color of the channel text area
+
+CHANNELS_DEFAULT	The default color of channels in the UI
+
+TEXT_LINK	The text color for links
+
+KEYBOARD	The background color and text color for keyboard-related UI elements
+
+Setting	Description	UI Element
+
+colours.PRIMARY_DARK	The primary dark color used in some UI elements	Various UI elements such as chat input field, selected text in chat, and some icons
+colours.PRIMARY_DARK_100	A shade of the primary dark color used in some UI elements	Various UI elements such as some icons and hover effects
+colours.PRIMARY_DARK_200	A shade of the primary dark color used in some UI elements	Various UI elements such as some icons and hover effects
+colours.PRIMARY_DARK_300	A shade of the primary dark color used in some UI elements	Various UI elements such as some icons and hover effects
+colours.PRIMARY_DARK_360	A shade of the primary dark color used in some UI elements	Various UI elements such as some icons and hover effects
+colours.PRIMARY_DARK_400	A shade of the primary dark color used in some UI elements	Various UI elements such as the online status dot, reactions, and hover effects
+colours.PRIMARY_DARK_500	A shade of the primary dark color used in some UI elements	Various UI elements such as selected message background and hover effects
+colours.PRIMARY_DARK_600	The darkest shade of the primary dark color used in some UI elements	Various UI elements such as chat text, channel names, and icons
+colours.PRIMARY_DARK_630	A shade of the primary dark color used in some UI elements	Various UI elements such as selected message background and hover effects
+colours.PRIMARY_DARK_700	A shade of the primary dark color used in some UI elements	Various UI elements such as channel categories and hover effects
+colours.PRIMARY_DARK_800	A shade of the primary dark color used in some UI elements	Various UI elements such as server name and hover effects
+
+unsafe_colors.CHAT_GREY	The color used for some UI elements when in "unsafe mode"	Various UI elements such as chat background and hover effects
+
+background.blur	The amount of blur applied to the background image	The background image behind the chat
+background.url	The URL of the background image used in the chat	The background image behind the chat
+background.alpha	The opacity of the background image used in the chat	The background image behind the chat
+
+color	The accent color used for some UI elements	Various UI elements such as links and selected tex
